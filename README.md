@@ -1,3 +1,6 @@
+
+<style>body{ background-color: red;}</style>
+<div style="background-image: url('img/astronaut2.jpg');">
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="center">A passionate Salesforce Developer from Brazil</h3>
 
@@ -5,12 +8,11 @@
 
 - 📄 Know about my experiences
 [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/dirceumonteiro" target="blank">
       <img align="center"
-         src="img/astronaut2.jpg"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="dirceumonteiro" height="30" width="40" />
    </a>
 </p>
@@ -136,3 +138,6 @@
       src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
+
+
+</div>
