@@ -1,12 +1,3 @@
-<style>
-   body {
-      body {
-         background-image: url("img/astronaut2.jpg");
-         background-color: #cccccc;
-        }
-   }
-</style>
-
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="center">A passionate Salesforce Developer from Brazil</h3>
 
@@ -19,7 +10,7 @@
 <p align="left">
    <a href="https://linkedin.com/in/dirceumonteiro" target="blank">
       <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         src="img/astronaut2.jpg"
          alt="dirceumonteiro" height="30" width="40" />
    </a>
 </p>
