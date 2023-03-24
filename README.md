@@ -1,8 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <div style="background-image: url('img/astronaut2.jpg');">
 =======
 >>>>>>> 8487428f69c8d54788973f37c5f0da03f1a6a269
+=======
+
+<style>body{ background-color: red;}</style>
+<div style="background-image: url('img/astronaut2.jpg');">
+>>>>>>> 866ee49a024f651b6ffcba226ffd42e3ce09077f
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="center">A passionate Salesforce Developer from Brazil</h3>
 
@@ -14,7 +20,7 @@
 <p align="left">
    <a href="https://linkedin.com/in/dirceumonteiro" target="blank">
       <img align="center"
-         src="img/astronaut2.jpg"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="dirceumonteiro" height="30" width="40" />
    </a>
 </p>
@@ -143,4 +149,8 @@
 </a>
 
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> 866ee49a024f651b6ffcba226ffd42e3ce09077f
