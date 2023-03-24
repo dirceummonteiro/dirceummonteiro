@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<div style="background-image: url('img/astronaut2.jpg');">
-=======
->>>>>>> 8487428f69c8d54788973f37c5f0da03f1a6a269
-=======
 
-<style>body{ background-color: red;}</style>
-<div style="background-image: url('img/astronaut2.jpg');">
->>>>>>> 866ee49a024f651b6ffcba226ffd42e3ce09077f
+<div background-image = "src(astronaut2.jpg)">
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="center">A passionate Salesforce Developer from Brazil</h3>
+
 
 - 🔭 I’m currently working on **IBM**
 
@@ -24,8 +17,9 @@
          alt="dirceumonteiro" height="30" width="40" />
    </a>
 </p>
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
@@ -148,9 +142,4 @@
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 
-
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> 866ee49a024f651b6ffcba226ffd42e3ce09077f
