@@ -1,12 +1,5 @@
-<style>
-   body {
-      body {
-         background-image: url("img/astronaut2.jpg");
-         background-color: #cccccc;
-        }
-   }
-</style>
 
+<div style="background-image: url('img/astronaut2.jpg');">
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="center">A passionate Salesforce Developer from Brazil</h3>
 
@@ -14,7 +7,6 @@
 
 - 📄 Know about my experiences
 [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/dirceumonteiro" target="blank">
@@ -23,7 +15,8 @@
          alt="dirceumonteiro" height="30" width="40" />
    </a>
 </p>
-
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
@@ -145,3 +138,6 @@
       src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
+
+
+</div>
