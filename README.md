@@ -1,11 +1,4 @@
-<style>
-   body {
-      body {
-         background-image: url("img/astronaut2.jpg");
-         background-color: #cccccc;
-        }
-   }
-</style>
+
 
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="center">A passionate Salesforce Developer from Brazil</h3>
