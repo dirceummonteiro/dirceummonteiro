@@ -62,6 +62,7 @@ Connect with me:</h3>
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
           height="40" />
 </a>
+
 <a
    href="https://heroku.com" target="_blank" rel="noreferrer">
 <img
@@ -134,9 +135,7 @@ Connect with me:</h3>
 <img align="center"
       src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
       alt="dirceummonteiro" width="40" height="40" />
-</a>
-
-    
+</a>    
  
  <h3 align="left">
     Trailhead:</h3>
