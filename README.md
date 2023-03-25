@@ -140,7 +140,7 @@ Connect with me:</h3>
  <h3 align="left">
     Trailhead:</h3>
  <a
-       href="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
+       href="https://trailblazer.me/id/dmonteiro10"
        target="_blank" rel="noreferrer">
 <img align="center"
           src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
