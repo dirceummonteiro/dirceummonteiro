@@ -1,29 +1,28 @@
-<table border="none">
-<tr>
-<td><p>
-<div >
+<img align="right"  height="1000" width="50%" src="astronaut2.jpg">
+ 
+
+ <div >
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
-<h3 align="left">A passionate Salesforce
+ <h3 align="left">A passionate Salesforce
     Developer from Brazil</h3>
     
 - 🔭 I’m currently working on **IBM** 
-- 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
-
-<h3 align="left">
+- 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) <h3
+       align="left">
 Connect with me:</h3>
  <p align="left">
-       <a href="https://linkedin.com/in/dirceumonteiro" target="blank">
-          <img align="center"
+<a href="https://linkedin.com/in/dirceumonteiro" target="blank">
+<img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
              alt="dirceumonteiro" height="30" width="40" />
-       </a>
-    </p>
+</a>
+</p>
  
  
  
  <h3 align="left">Languages
     and Tools:</h3>
- <p align="left">
+ <p gn="left">
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
    <img
       src="https://logodownload.org/wp-content/uploads/2020/04/salesforce-logo.png"
@@ -59,83 +58,83 @@ Connect with me:</h3>
       height="40" />
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-      height="40" />
+<img
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
+          height="40" />
 </a>
 <a
    href="https://heroku.com" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
       height="40" />
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" />
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
       width="40" height="40" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
    target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
 </a>
 <a href="https://www.linux.org/" target="_blank"
    rel="noreferrer">
-   <img
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
       width="40" height="40" />
 </a>
 </a>
-    </p>
- <h3 align="left">Certificates:</h3>
- <p>
-       <img align="center"
-          src="https://salesforceemily.com/wp-content/uploads/2022/09/2022-08_Badge_SF-Certified_Associate_High-Res.png"
-          alt="dirceummonteiro" width="40" height="40" />
-       <img align="center"
-          src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png"
-          alt="dirceummonteiro" width="40" height="40" />
-       <img align="center"
-          src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png"
-          alt="dirceummonteiro" width="40" height="40" />
-       <img align="center"
-          src="https://www.oktana.com/wp-content/uploads/2021/10/Platform-Developer-I-1024x1004.png"
-          alt="dirceummonteiro" width="40" height="40" />
-    </p>
+</p>
+<h3 align="left">Certificates:</h3>
+<p>
+<img align="center"
+   src="https://salesforceemily.com/wp-content/uploads/2022/09/2022-08_Badge_SF-Certified_Associate_High-Res.png"
+   alt="dirceummonteiro" width="40" height="40" />
+<img align="center"
+   src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png"
+   alt="dirceummonteiro" width="40" height="40" />
+<img align="center"
+   src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png"
+   alt="dirceummonteiro" width="40" height="40" />
+<img align="center"
+   src="https://www.oktana.com/wp-content/uploads/2021/10/Platform-Developer-I-1024x1004.png"
+   alt="dirceummonteiro" width="40" height="40" />
+</p>
  
- <h3 align="left">Badges:</h3>
- <p>
-       <a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
-          <img align="center"
-             src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png"
-             alt="dirceummonteiro" width="40" height="40" />
-       </a>
-       <a href="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
-          target="_blank" rel="noreferrer">
-          <img align="center"
-             src="https://images.credly.com/size/340x340/images/6fa4f7f3-0cae-4909-8524-b496bf0c5a76/Telecom-Industry-Jumpstart.png"
-             alt="dirceummonteiro" width="40" height="40" />
-       </a>
-       <a href="https://www.credly.com/badges/f400f79d-485b-494c-bf6f-075f672a0594/public_url"
-          target="_blank" rel="noreferrer">
-          <img align="center"
-             src="https://images.credly.com/size/340x340/images/229f3133-b44f-4d2d-8d24-ee79fe7278a9/People-Skills-Resiliency.png"
-             alt="dirceummonteiro" width="40" height="40" />
-       </a>
-       <a href="https://www.credly.com/badges/2a3f32d2-2d9a-4767-8c13-dccd7d251eec/public_url"
-          target="_blank" rel="noreferrer">
-          <img align="center"
-             src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
-             alt="dirceummonteiro" width="40" height="40" />
-       </a>
+<h3 align="left">Badges:</h3>
+<p>
+<a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+<a href="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
+   target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://images.credly.com/size/340x340/images/6fa4f7f3-0cae-4909-8524-b496bf0c5a76/Telecom-Industry-Jumpstart.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+<a href="https://www.credly.com/badges/f400f79d-485b-494c-bf6f-075f672a0594/public_url"
+   target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://images.credly.com/size/340x340/images/229f3133-b44f-4d2d-8d24-ee79fe7278a9/People-Skills-Resiliency.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+<a href="https://www.credly.com/badges/2a3f32d2-2d9a-4767-8c13-dccd7d251eec/public_url"
+   target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
 
     
  
@@ -144,16 +143,10 @@ Connect with me:</h3>
  <a
        href="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
        target="_blank" rel="noreferrer">
-       <img width="40" height="40" align="center"
+<img align="center"
           src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
           alt="dirceummonteiro" width="40" height="40" />
 </a>
  
  
-</div></p>
-</td>
-<td>
- <img  height="1000" src="astronaut2.jpg">
-</td>
-</tr>
-</table>
+</div>
