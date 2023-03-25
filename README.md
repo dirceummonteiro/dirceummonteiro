@@ -1,16 +1,16 @@
 <img align="right"  height="1000" width="50%" src="astronaut2.jpg">
  
 
- <div >
+<div >
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
- <h3 align="left">A passionate Salesforce
+<h3 align="left">A passionate Salesforce
     Developer from Brazil</h3>
     
 - 🔭 I’m currently working on **IBM** 
-- 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) <h3
-       align="left">
+- 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
+<h3 align="left">
 Connect with me:</h3>
- <p align="left">
+<p align="left">
 <a href="https://linkedin.com/in/dirceumonteiro" target="blank">
 <img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -20,40 +20,40 @@ Connect with me:</h3>
  
  
  
- <h3 align="left">Languages
-    and Tools:</h3>
- <p gn="left">
+<h3 align="left">Languages
+   and Tools:</h3>
+<p gn="left">
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://logodownload.org/wp-content/uploads/2020/04/salesforce-logo.png"
       alt="salesforce" width="40"
       height="40" />
 </a>
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png"
       alt="apex" width="40"
       height="40" />
 </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
       alt="azure" width="40"
       height="40" />
 </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40"
       height="40" />
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3" width="40" height="40" />
 </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
-   <img
+<img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"
       height="40" />
 </a>
