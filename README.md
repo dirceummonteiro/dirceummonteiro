@@ -1,4 +1,4 @@
-<img align="right"  height="1000" width="50%" src="https://www.vhv.rs/dpng/d/8-80909_transparent-background-astronaut-clipart-hd-png-download.png">
+<img align="right"  height="1000" width="50%" src="astro.png">
  
 
 <div >
