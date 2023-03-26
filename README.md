@@ -196,7 +196,7 @@ Connect with me:</h3>
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true" />
 </picture>
