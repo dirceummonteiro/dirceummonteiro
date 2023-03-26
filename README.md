@@ -3,8 +3,8 @@
 <h3>A passionate Salesforce
     Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **IBM** 
-- 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
+-🔭 I’m currently working on **IBM** 
+-📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
 </div>
 
 
