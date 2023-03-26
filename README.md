@@ -189,7 +189,4 @@ Connect with me:</h3>
           alt="dirceummonteiro" width="40" height="40" />
 </a>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&locale=en" alt="dirceummonteiro" background-color= "red" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dirceummonteiro&" alt="dirceummonteiro" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=radical)
