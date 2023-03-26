@@ -189,3 +189,8 @@ Connect with me:</h3>
           alt="dirceummonteiro" width="40" height="40" />
 </a>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dirceummonteiro&show_icons=true&locale=en&layout=compact" alt="dirceummonteiro" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&locale=en" alt="dirceummonteiro" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dirceummonteiro&" alt="dirceummonteiro" /></p>
