@@ -4,7 +4,7 @@
 <br />
 <img align="right"  height="1000" width="40%" src="astro.png">
 <div>    
-- 🔭 I’m currently working on **IBM** 
+- 🔭 I’m currently working on **IBM**
 - 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
 <h3 align="left">
 Connect with me:</h3>
