@@ -1,5 +1,4 @@
-<img align="right"  height="1000" width="40%" src="background.png">
-![ background ](background.png)
+![ background ]("background.png")
 
 <div >
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
