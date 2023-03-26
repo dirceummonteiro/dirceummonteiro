@@ -1,4 +1,4 @@
-![ background ]("background.png")
+![ background ](astro.png)
 
 <div >
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
