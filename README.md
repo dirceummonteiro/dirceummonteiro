@@ -1,6 +1,6 @@
 <img align="right"  height="1000" width="40%" src="astro.png">
  
-
+<picture>
 <div >
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="left">A passionate Salesforce
@@ -189,8 +189,8 @@ Connect with me:</h3>
           alt="dirceummonteiro" width="40" height="40" />
 </a>
 </div>
-<picture>
-teste
+
+
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
