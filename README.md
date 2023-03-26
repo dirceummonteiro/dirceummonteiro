@@ -1,6 +1,7 @@
-<div width="100%">
 <img align="right"  height="1000" width="40%" src="astro.png">
-<div align="left">
+ 
+
+<div >
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="left">A passionate Salesforce
     Developer from Brazil</h3>
@@ -11,7 +12,7 @@
 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dirceumonteiro" target="blank">
-<img align="left"
+<img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
              alt="dirceumonteiro" height="30" width="40" />
 </a>
@@ -113,16 +114,16 @@ Connect with me:</h3>
 
 <h3 align="left">Certificates:</h3>
 <p>
-<img align="left"
+<img align="center"
    src="https://salesforceemily.com/wp-content/uploads/2022/09/2022-08_Badge_SF-Certified_Associate_High-Res.png"
    alt="dirceummonteiro" width="40" height="40" />
-<img align="left"
+<img align="center"
    src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png"
    alt="dirceummonteiro" width="40" height="40" />
-<img align="left"
+<img align="center"
    src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png"
    alt="dirceummonteiro" width="40" height="40" />
-<img align="left"
+<img align="center"
    src="https://www.oktana.com/wp-content/uploads/2021/10/Platform-Developer-I-1024x1004.png"
    alt="dirceummonteiro" width="40" height="40" />
 </p>
@@ -130,50 +131,50 @@ Connect with me:</h3>
 <h3 align="left">Badges:</h3>
 <p>
 <a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
       src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 <a href="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
    target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
       src="https://images.credly.com/size/340x340/images/6fa4f7f3-0cae-4909-8524-b496bf0c5a76/Telecom-Industry-Jumpstart.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 <a href="https://www.credly.com/badges/f400f79d-485b-494c-bf6f-075f672a0594/public_url"
    target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
       src="https://images.credly.com/size/340x340/images/229f3133-b44f-4d2d-8d24-ee79fe7278a9/People-Skills-Resiliency.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 <a href="https://www.credly.com/badges/2a3f32d2-2d9a-4767-8c13-dccd7d251eec/public_url"
    target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
       src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 <a href="https://www.credly.com/badges/4e05e973-3ab6-411f-aa16-10928dbbb75e/public_url"
    target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
       src="https://images.credly.com/size/340x340/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 
  <a href="https://www.credly.com/badges/f6209b55-4b4e-4deb-af8b-c5a62180221e/public_url"
    target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
       src="https://images.credly.com/size/340x340/images/29869d62-c388-41cd-a5b2-be4edec88743/image.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
  <a href="https://www.credly.com/badges/bcb4dfce-f89d-4b91-9061-dd90a3d34480/public_url"
    target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
       src="https://images.credly.com/size/340x340/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
  <a href="https://www.credly.com/badges/bcb4dfce-f89d-4b91-9061-dd90a3d34480/public_url"
    target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
       src="https://images.credly.com/size/340x340/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
@@ -183,10 +184,12 @@ Connect with me:</h3>
  <a
        href="https://trailblazer.me/id/dmonteiro10"
        target="_blank" rel="noreferrer">
-<img align="left"
+<img align="center"
           src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
           alt="dirceummonteiro" width="40" height="40" />
 </a>
+</div>
+<div>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=radical"
@@ -194,8 +197,4 @@ Connect with me:</h3>
 />
 <img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true" />
 </picture>
-</div>
-
-
-
 </div>
