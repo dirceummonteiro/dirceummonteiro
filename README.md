@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
-<img align="right"  height="1000" width="40%" src="astro.png">
-<div >
-<h3 align="left">A passionate Salesforce
+<h3 align="center">A passionate Salesforce
     Developer from Brazil</h3>
-    
+<img align="right"  height="1000" width="40%" src="astro.png">
+<div>    
 - 🔭 I’m currently working on **IBM** 
 - 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
 <h3 align="left">
