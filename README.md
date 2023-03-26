@@ -103,6 +103,13 @@ Connect with me:</h3>
       alt="linux"
       width="40" height="40" />
 </a>
+<a href="https://www.salesforce.com/news/stories/vlocity-powering-the-future-of-salesforce-industries/" target="_blank"
+   rel="noreferrer">
+<img
+      src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/uvkxt4u7s1grhqhw5kgo"
+      alt="linux"
+      width="40" height="40" />
+</a>
 </p>
 
 <h3 align="left">Certificates:</h3>
