@@ -143,7 +143,32 @@ Connect with me:</h3>
       src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>    
- 
+<a href="https://www.credly.com/badges/4e05e973-3ab6-411f-aa16-10928dbbb75e/public_url"
+   target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://images.credly.com/size/340x340/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+ <a href="https://www.credly.com/badges/f6209b55-4b4e-4deb-af8b-c5a62180221e/public_url"
+   target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://images.credly.com/size/340x340/images/29869d62-c388-41cd-a5b2-be4edec88743/image.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+ <a href="https://www.credly.com/badges/bcb4dfce-f89d-4b91-9061-dd90a3d34480/public_url"
+   target="_blank" rel="noreferrer">
+<img align="center"
+      src=" https://images.credly.com/size/340x340/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+</a>
+ <a href="https://www.credly.com/badges/bcb4dfce-f89d-4b91-9061-dd90a3d34480/public_url"
+   target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://images.credly.com/size/340x340/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+
  <h3 align="left">
     Trailhead:</h3>
  <a
@@ -153,6 +178,4 @@ Connect with me:</h3>
           src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
           alt="dirceummonteiro" width="40" height="40" />
 </a>
- 
- 
 </div>
