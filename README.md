@@ -52,6 +52,7 @@ Connect with me:</h3>
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3" width="40" height="40" />
 </a>
+
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
 <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"
@@ -62,7 +63,6 @@ Connect with me:</h3>
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
           height="40" />
 </a>
-
 <a
    href="https://heroku.com" target="_blank" rel="noreferrer">
 <img
@@ -80,6 +80,7 @@ Connect with me:</h3>
       alt="java"
       width="40" height="40" />
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
    target="_blank" rel="noreferrer">
 <img
@@ -143,7 +144,7 @@ Connect with me:</h3>
       src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
-    
+
 <a href="https://www.credly.com/badges/4e05e973-3ab6-411f-aa16-10928dbbb75e/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
