@@ -190,6 +190,6 @@ Connect with me:</h3>
 </a>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&locale=en" alt="dirceummonteiro" style="background-color: red;" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&locale=en" alt="dirceummonteiro" background-color= "red" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dirceummonteiro&" alt="dirceummonteiro" /></p>
