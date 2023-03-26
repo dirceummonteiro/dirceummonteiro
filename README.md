@@ -53,7 +53,6 @@ Connect with me:</h3>
       alt="css3" width="40" height="40" />
 </a>
 
-
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
 <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"
@@ -81,7 +80,6 @@ Connect with me:</h3>
       alt="java"
       width="40" height="40" />
 </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
    target="_blank" rel="noreferrer">
 <img
