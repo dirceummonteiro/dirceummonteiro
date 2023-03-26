@@ -192,7 +192,13 @@ Connect with me:</h3>
 <br />
 <br />
 <div>
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true"/>
+</picture>
 </div>
 
 
