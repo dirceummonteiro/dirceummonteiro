@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
-
+<p align="center">
+- 🔭 I’m currently working on **IBM** 
+- 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
+</p>
 <img align="right"  height="1000" width="40%" src="astro.png">
 <div >
 <h3 align="center">A passionate Salesforce
     Developer from Brazil</h3>    
-- 🔭 I’m currently working on **IBM** 
-- 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
+
 
 <h3 align="left">
 Connect with me:</h3>
