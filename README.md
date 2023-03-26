@@ -167,7 +167,7 @@ Connect with me:</h3>
       src="https://images.credly.com/size/340x340/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
-
+</p>
  <h3 align="left">
     Trailhead:</h3>
  <a
