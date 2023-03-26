@@ -142,7 +142,8 @@ Connect with me:</h3>
 <img align="center"
       src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
       alt="dirceummonteiro" width="40" height="40" />
-</a>    
+</a>
+    
 <a href="https://www.credly.com/badges/4e05e973-3ab6-411f-aa16-10928dbbb75e/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
