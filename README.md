@@ -29,7 +29,7 @@ Connect with me:</h3>
       alt="salesforce" width="40"
       height="40" />
 </a>
-<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
+<a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm" target="_blank" rel="noreferrer">
 <img
       src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png"
       alt="apex" width="40"
