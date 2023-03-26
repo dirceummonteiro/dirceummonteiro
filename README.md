@@ -189,11 +189,12 @@ Connect with me:</h3>
           alt="dirceummonteiro" width="40" height="40" />
 </a>
 </div>
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
-
 <img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true" />
 </picture>
