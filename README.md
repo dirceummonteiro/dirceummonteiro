@@ -1,6 +1,6 @@
 <div width="100%">
 <img align="right"  height="1000" width="40%" src="astro.png">
-<div width="70%">
+<div align="center">
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="left">A passionate Salesforce
     Developer from Brazil</h3>
