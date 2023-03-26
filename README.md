@@ -158,7 +158,13 @@ Connect with me:</h3>
  <a href="https://www.credly.com/badges/bcb4dfce-f89d-4b91-9061-dd90a3d34480/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
-      src=" https://images.credly.com/size/340x340/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
+      src="https://images.credly.com/size/340x340/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+ <a href="https://www.credly.com/badges/bcb4dfce-f89d-4b91-9061-dd90a3d34480/public_url"
+   target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://images.credly.com/size/340x340/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 
