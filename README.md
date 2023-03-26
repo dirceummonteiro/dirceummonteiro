@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="center">A passionate Salesforce
     Developer from Brazil</h3>
+<br />
 <img align="right"  height="1000" width="40%" src="astro.png">
 <div>    
 - 🔭 I’m currently working on **IBM** 
