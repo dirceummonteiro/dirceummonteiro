@@ -1,4 +1,4 @@
-<div align="left" width="100%">
+<div width="1000">
 <img align="right"  height="1000" width="40%" src="astro.png">
 <div>
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
