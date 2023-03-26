@@ -1,4 +1,4 @@
-<img align="right"  height="1000" width="40%" src="astro.png style="background-color:##f5f5f5">
+<img align="right"  height="1000" width="40%" src="astro.png" style="background-color:##f5f5f5">
 ![ background ]("astro.png")
 
 <div >
