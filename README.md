@@ -52,7 +52,6 @@ Connect with me:</h3>
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3" width="40" height="40" />
 </a>
-
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
 <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"
