@@ -146,13 +146,13 @@ Connect with me:</h3>
       src="https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
-
 <a href="https://www.credly.com/badges/4e05e973-3ab6-411f-aa16-10928dbbb75e/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
       src="https://images.credly.com/size/340x340/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
+
  <a href="https://www.credly.com/badges/f6209b55-4b4e-4deb-af8b-c5a62180221e/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
