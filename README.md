@@ -93,6 +93,13 @@ Connect with me:</h3>
       alt="linux"
       width="40" height="40" />
 </a>
+<a href="https://success.copado.com/s/" target="_blank"
+   rel="noreferrer">
+<img
+      src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tcxj8zcyoacn908i14z2"
+      alt="linux"
+      width="40" height="40" />
+</a>
 </a>
 </p>
 <h3 align="left">Certificates:</h3>
