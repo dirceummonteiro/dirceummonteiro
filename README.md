@@ -189,7 +189,7 @@ Connect with me:</h3>
           alt="dirceummonteiro" width="40" height="40" />
 </a>
 </div>
-
+<div>
 
 <picture>
 <source 
@@ -198,3 +198,4 @@ Connect with me:</h3>
 />
 <img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true" />
 </picture>
+</div>
