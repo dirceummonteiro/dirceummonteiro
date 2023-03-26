@@ -1,15 +1,15 @@
 <div width="100%">
 <img align="right"  height="1000" width="40%" src="astro.png">
 <div align="center">
-<h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
-<h3 align="left">A passionate Salesforce
+<h1 align="right">Hi 👋, I'm Dirceu Monteiro</h1>
+<h3 align="right">A passionate Salesforce
     Developer from Brazil</h3>
     
 - 🔭 I’m currently working on **IBM** 
 - 📄 Know about my experiences  [https://www.linkedin.com/in/dirceumonteiro/](https://www.linkedin.com/in/dirceumonteiro/) 
-<h3 align="left">
+<h3 align="right">
 Connect with me:</h3>
-<p align="left">
+<p align="right">
 <a href="https://linkedin.com/in/dirceumonteiro" target="blank">
 <img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -19,9 +19,9 @@ Connect with me:</h3>
  
  
  
-<h3 align="left">Languages
+<h3 align="right">Languages
    and Tools:</h3>
-<p gn="left">
+<p gn="right">
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
 <img
       src="https://logodownload.org/wp-content/uploads/2020/04/salesforce-logo.png"
@@ -111,7 +111,7 @@ Connect with me:</h3>
 </a>
 </p>
 
-<h3 align="left">Certificates:</h3>
+<h3 align="right">Certificates:</h3>
 <p>
 <img align="center"
    src="https://salesforceemily.com/wp-content/uploads/2022/09/2022-08_Badge_SF-Certified_Associate_High-Res.png"
@@ -127,7 +127,7 @@ Connect with me:</h3>
    alt="dirceummonteiro" width="40" height="40" />
 </p>
  
-<h3 align="left">Badges:</h3>
+<h3 align="right">Badges:</h3>
 <p>
 <a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
 <img align="center"
@@ -178,7 +178,7 @@ Connect with me:</h3>
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 </p>
- <h3 align="left">
+ <h3 align="right">
     Trailhead:</h3>
  <a
        href="https://trailblazer.me/id/dmonteiro10"
@@ -187,10 +187,6 @@ Connect with me:</h3>
           src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
           alt="dirceummonteiro" width="40" height="40" />
 </a>
-</div>
-<div>
-</div>
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=radical"
@@ -198,4 +194,8 @@ Connect with me:</h3>
 />
 <img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true" />
 </picture>
+</div>
+
+
+
 </div>
