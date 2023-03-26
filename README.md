@@ -190,6 +190,7 @@ Connect with me:</h3>
 </a>
 </div>
 <picture>
+teste
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
