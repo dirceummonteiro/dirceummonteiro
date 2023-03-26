@@ -188,9 +188,7 @@ Connect with me:</h3>
           src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
           alt="dirceummonteiro" width="40" height="40" />
 </a>
-\
-\
-\
+<br />
 </div>
 <div>
 <picture>
