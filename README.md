@@ -190,6 +190,7 @@ Connect with me:</h3>
 </a>
 </div>
 <br />
+<br />
 <div>
 <picture>
 <source 
