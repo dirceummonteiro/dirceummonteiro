@@ -188,6 +188,9 @@ Connect with me:</h3>
           src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
           alt="dirceummonteiro" width="40" height="40" />
 </a>
+
+
+
 </div>
 <div>
 <picture>
@@ -195,6 +198,6 @@ Connect with me:</h3>
   srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true"/>
 </picture>
 </div>
