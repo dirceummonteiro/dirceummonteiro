@@ -1,4 +1,4 @@
-<img align="right"  height="1000" width="80%" src="astro.png">
+<img align="right"  height="1000" width="40%" src="astro.png">
  
 
 <div >
