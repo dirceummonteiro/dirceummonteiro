@@ -192,13 +192,12 @@ Connect with me:</h3>
 <br />
 <br />
 <div>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true&theme=gruvbox"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=dirceummonteiro&show_icons=true"/>
-</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 </div>
 
 
