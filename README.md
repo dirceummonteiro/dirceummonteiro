@@ -1,8 +1,6 @@
 <img align="right"  height="1000" width="40%" src="astro.png">
  
-<body>
-![ background image ](https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000 )
-</body>
+
 <div >
 <h1 align="left">Hi 👋, I'm Dirceu Monteiro</h1>
 <h3 align="left">A passionate Salesforce
