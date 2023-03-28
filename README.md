@@ -17,9 +17,7 @@ Connect with me:</h3>
              alt="dirceumonteiro" height="30" width="40" />
 </a>
 </p>
-<div style="background-color: #F5F5F5; padding: 20px;">
-<p>Este é um parágrafo com fundo cinza claro.</p>
-</div>
+ 
  
  
 <h3 align="left">Languages
