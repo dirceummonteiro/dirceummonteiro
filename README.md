@@ -2,6 +2,8 @@
 <h3 align="center">Salesforce
     Developer from Brazil</h3>
 <br />
+![Background](astro.png)
+
 <img align="right"  height="1000" width="40%" src="astro.png">
 <div>
 
