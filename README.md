@@ -2,7 +2,11 @@
 <h3 align="center">Salesforce
     Developer from Brazil</h3>
 <br />
-![Background](astro.png)
+
+<div style="background-image: url('https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630');">
+  <h1>Título do README.md</h1>
+  <p>Conteúdo do README.md</p>
+</div>
 
 <img align="right"  height="1000" width="40%" src="astro.png">
 <div>
