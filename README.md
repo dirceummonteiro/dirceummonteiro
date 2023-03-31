@@ -126,6 +126,9 @@ Connect with me:</h3>
 <img align="center"
    src="https://www.oktana.com/wp-content/uploads/2021/10/Platform-Developer-I-1024x1004.png"
    alt="dirceummonteiro" width="40" height="40" />
+<img align="center"
+   src="https://hopin.com/quiin/organizations/pictures/000/018/276/original/Copado-Logo-Symbol.png?1594068756"
+   alt="dirceummonteiro" width="40" height="40" />
 </p>
  
 <h3 align="left">Badges:</h3>
