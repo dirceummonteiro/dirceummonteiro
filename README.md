@@ -128,7 +128,7 @@ Connect with me:</h3>
    alt="dirceummonteiro" width="40" height="40" />
 <img align="center"
    src="https://hopin.com/quiin/organizations/pictures/000/018/276/original/Copado-Logo-Symbol.png?1594068756"
-   alt="dirceummonteiro" width="40" height="40" />
+   alt="dirceummonteiro" width="50" height="50" />
 </p>
  
 <h3 align="left">Badges:</h3>
