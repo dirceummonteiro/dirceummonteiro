@@ -157,6 +157,7 @@ Connect with me:</h3>
       src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_integration/109b07c27bdad837c3c0776db69650c1_badge.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
+
 <a href="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
