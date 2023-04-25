@@ -142,6 +142,21 @@ Connect with me:</h3>
       src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
+<a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://developer.salesforce.com/resource/images/trailhead/badges/superbadges/trailhead_superbadge_approval_process_management_sbu.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+<a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_lwc_specialist/0b422a78e019b08aa699dc76b48cc7e8_badge.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
+<a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
+<img align="center"
+      src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_integration/109b07c27bdad837c3c0776db69650c1_badge.png"
+      alt="dirceummonteiro" width="40" height="40" />
+</a>
 <a href="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
