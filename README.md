@@ -77,7 +77,7 @@ Connect with me:</h3>
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://cdn-icons-png.flaticon.com/512/226/226777.png)"
       alt="java"
       width="40" height="40" />
 </a>
