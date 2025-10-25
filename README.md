@@ -186,7 +186,7 @@ Connect with me:</h3>
  <a href="https://www.credly.com/badges/f6209b55-4b4e-4deb-af8b-c5a62180221e/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
-      src="https://images.credly.com/size/340x340/images/29869d62-c388-41cd-a5b2-be4edec88743/image.png"
+      src="https://images.credly.com/size/340x340/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
  <a href="https://www.credly.com/badges/bcb4dfce-f89d-4b91-9061-dd90a3d34480/public_url"
