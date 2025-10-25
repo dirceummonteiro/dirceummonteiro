@@ -43,7 +43,7 @@ Connect with me:</h3>
 </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png"
       alt="c" width="40"
       height="40" />
 </a>
