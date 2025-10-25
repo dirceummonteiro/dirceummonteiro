@@ -144,7 +144,7 @@ Connect with me:</h3>
 </a>
 <a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
 <img align="center"
-      src="https://developer.salesforce.com/resource/images/trailhead/badges/superbadges/trailhead_superbadge_approval_process_management_sbu.png"
+      src="https://sys4b.com.br/wp-content/uploads/2024/12/unnamed-6.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 <a href="https://trailblazer.me/id/dmonteiro10" target="_blank" rel="noreferrer">
