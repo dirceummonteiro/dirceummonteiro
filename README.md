@@ -208,7 +208,7 @@ Connect with me:</h3>
        href="https://trailblazer.me/id/dmonteiro10"
        target="_blank" rel="noreferrer">
 <img align="center"
-          src="https://trailhead.salesforce.com/assets/trailhead-og-flogo-eb71bb74c099e270bc2c746649355f1693672d1450cee152facd0de9d6da065d.png"
+          src="https://sys4b.com.br/wp-content/uploads/2024/12/unnamed-6.png"
           alt="dirceummonteiro" width="40" height="40" />
 </a>
 </div>
