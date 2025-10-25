@@ -99,7 +99,7 @@ Connect with me:</h3>
 <a href="https://success.copado.com/s/" target="_blank"
    rel="noreferrer">
 <img
-      src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tcxj8zcyoacn908i14z2"
+      src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P3A00000jVgvyUAC"
       alt="linux"
       width="40" height="40" />
 </a>
