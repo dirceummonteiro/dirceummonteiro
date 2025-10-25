@@ -161,7 +161,7 @@ Connect with me:</h3>
 <a href="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
-      src="https://images.credly.com/size/340x340/images/6fa4f7f3-0cae-4909-8524-b496bf0c5a76/Telecom-Industry-Jumpstart.png"
+      src="https://images.credly.com/size/340x340/images/ff848b69-0be6-4eeb-808f-b759c6586999/Telecom-Industry-Jumpstart.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 <a href="https://www.credly.com/badges/f400f79d-485b-494c-bf6f-075f672a0594/public_url"
