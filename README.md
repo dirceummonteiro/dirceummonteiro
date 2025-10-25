@@ -167,7 +167,7 @@ Connect with me:</h3>
 <a href="https://www.credly.com/badges/f400f79d-485b-494c-bf6f-075f672a0594/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
-      src="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
+      src="https://images.credly.com/size/340x340/images/953dbff8-c1fc-4dd8-a634-bbe0c15e60a7/image.png"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 <a href="https://www.credly.com/badges/2a3f32d2-2d9a-4767-8c13-dccd7d251eec/public_url"
