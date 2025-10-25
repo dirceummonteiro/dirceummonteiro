@@ -86,7 +86,7 @@ Connect with me:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
    target="_blank" rel="noreferrer">
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTWiFIaZNIFsCerMBHt-gm1Ub4irbeUWjfw&s"
       alt="javascript" width="40" height="40" />
 </a>
 <a href="https://www.linux.org/" target="_blank"
