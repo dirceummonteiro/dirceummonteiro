@@ -72,7 +72,7 @@ Connect with me:</h3>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s"
       alt="html5" width="40" height="40" />
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
