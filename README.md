@@ -167,7 +167,7 @@ Connect with me:</h3>
 <a href="https://www.credly.com/badges/f400f79d-485b-494c-bf6f-075f672a0594/public_url"
    target="_blank" rel="noreferrer">
 <img align="center"
-      src="https://images.credly.com/size/340x340/images/229f3133-b44f-4d2d-8d24-ee79fe7278a9/People-Skills-Resiliency.png"
+      src="https://www.credly.com/badges/e57caab7-0f80-4067-9380-139e20d06938/public_url"
       alt="dirceummonteiro" width="40" height="40" />
 </a>
 <a href="https://www.credly.com/badges/2a3f32d2-2d9a-4767-8c13-dccd7d251eec/public_url"
