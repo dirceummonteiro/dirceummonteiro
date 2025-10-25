@@ -92,7 +92,7 @@ Connect with me:</h3>
 <a href="https://www.linux.org/" target="_blank"
    rel="noreferrer">
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      src="https://assets.dio.me/IhsVEHZsEErQlX-oTfsl4kRM3BIikSWt-0-yNn1Bdzg/f:webp/q:80/L2FydGljbGVzL2NvdmVyL2U3ZTIwZThiLTU5ZTMtNDkxZS04NTY3LWZjYTIyZDYxZjg0Zi5wbmc"
       alt="linux"
       width="40" height="40" />
 </a>
